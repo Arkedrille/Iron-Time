@@ -1,2 +1,5 @@
 # IronTime
-Game made in Java with the theme Time Out
+
+Game made in Java.
+
+Based on a scene in the movie "Time Out".
