@@ -2,4 +2,4 @@
 
 Game made in Java.
 
-Based on a scene in the movie "Time Out".
+The theme was the movie "Time Out" so we build a arm wrestler game (there's one in the movie).
